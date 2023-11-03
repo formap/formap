@@ -1,4 +1,4 @@
-## Hi there, I'm Flor 👩🏻‍💻 ⛰️ 🌈
+## Hi there, I'm Flor 👩🏻‍💻👋
 
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/glovoapp_logo_icon_169104.png" height="12"/> **Senior Software Engineer** at Glovo
 - 👩🏻‍💻 Programming langugages: JavaScript (Vue) and Java
@@ -8,8 +8,6 @@
 - 🪴 Ask me about: mountains, running or plants.
 
 <br />
-
-<!-- ![Flor's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=formap&theme=cobalt) -->
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -39,12 +37,3 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=flat-square)
-
-<!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff) -->
-
-<br />
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
